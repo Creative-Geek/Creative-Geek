@@ -33,5 +33,3 @@ I enjoy creating tools that simplify complex processes and tackling challenges i
 
 - Arabic (Native)
 - English (Fluent)
-
-Feel free to [connect with me](https://github.com/Creative-Geek/) on GitHub!
