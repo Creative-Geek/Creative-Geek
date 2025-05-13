@@ -21,14 +21,8 @@ I love creating tools that simplify complex processes and tackling tech challeng
 - Develop web apps and e-commerce websites.
 - Build automation tools to streamline workflows.
 - Craft intuitive GUIs for smooth user interactions.  
-- Explore AI and machine learning.  
+- Explore AI and machine learning usecases.  
 - Blog to spread tech awareness and knowledge.  
 - Provide tech support.
-
-### My Projects 🚀  
-- **Arabic Handwriting OCR**: Built a deep learning model that hits 97% accuracy in Arabic handwriting recognition!  
-- **Platformer Video Game**: Created a fun platformer using the Godot Engine.  
-- **Time Estimator Tool**: Designed a GUI-based app for data transfer calculations with QT5.  
-- **Personal Blog (Creative Geek)**: Sharing tech insights to empower Egyptian communities.
 
 Let's connect! 🤝
