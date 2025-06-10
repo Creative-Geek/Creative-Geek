@@ -8,7 +8,9 @@ I love creating tools that makes life easier ☺️.
 🔭 I’m currently working on Tasky.<br>👀 I’m interested in web development, computer graphics, and machine learning.<br>📫 Find all my contacts bellow.
 
 Checkout my blog: http://creative-geek.tech
-and checkout my pinned projects bellow 👇👇👇
+
+[![download my resume](https://github.com/user-attachments/assets/2286d355-9a81-45d8-9696-aad8f7e2f98b)](https://cg-blog-articles.pages.dev/Pages/resume.pdf)
+
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/A7medTa8a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-taha-thecg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC6fwcVt0oir2p1Eywt8hJng) 
