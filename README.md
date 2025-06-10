@@ -58,18 +58,3 @@ and checkout my pinned projects bellow 👇👇👇
 | | | | |
 |---|---|---|---|
 | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
-
-### Web Design and Prototyping
-| |
-|---|
-| ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) |
----
-[![](https://visitcount.itsvg.in/api?id=CreativeGeek&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
-
-### What I Do 🔧  
-- Develop web apps and e-commerce websites.
-- Build automation tools to streamline workflows.
-- Craft intuitive GUIs for smooth user interactions.  
-- Explore AI and machine learning usecases.  
-- Blog to spread tech awareness and knowledge.  
-- Provide tech support.
