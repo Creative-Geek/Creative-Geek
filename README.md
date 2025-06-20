@@ -5,7 +5,7 @@ I'm super passionate about building long-term solutions and sharing knowledge.
 
 I love creating tools that makes life easier ☺️.  
 
-🔭 I’m currently working on Tasky.<br>👀 I’m interested in web development, computer graphics, and machine learning.<br>📫 Find all my contacts bellow.
+🔭 I’m currently working on Expensi, A quick-shot expenses tracker.<br>👀 I’m generally interested in web development, computer graphics, and AI integrations.<br>📫 Find my socials bellow.
 
 Why do I do what I do? Because no one else would.
 
