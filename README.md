@@ -7,6 +7,10 @@ I love creating tools that makes life easier ☺️.
 
 🔭 I’m currently working on Tasky.<br>👀 I’m interested in web development, computer graphics, and machine learning.<br>📫 Find all my contacts bellow.
 
+Why do I do what I do? Because no one else would.
+
+![I do it myself](https://media1.tenor.com/m/vCqpL7x4sPUAAAAd/thanos-fine-ill-do-it-myself.gif)
+
 Checkout my blog: http://creative-geek.tech
 
 [![download my resume](https://github.com/user-attachments/assets/2286d355-9a81-45d8-9696-aad8f7e2f98b)](https://cg-blog-articles.pages.dev/Pages/resume.pdf)
