@@ -1,9 +1,9 @@
 ## 💫 About Me
 Hey there! 👋 I'm Ahmed Taha, a Software Engineer, Graphics Designer, and Video Editor.  
 
-I'm super passionate about building long-term solutions and sharing knowledge.  
+I'm super passionate about building automations tools and sharing knowledge.  
 
-I love creating tools that makes life easier ☺️.  
+I learn by doing and look up information as I go.
 
 🔭 I’m currently working on Expensi, A quick-shot expenses tracker.<br>👀 I’m generally interested in web development, computer graphics, and AI integrations.<br>📫 Find my socials bellow.
 
@@ -18,3 +18,5 @@ Checkout my blog: http://creative-geek.tech
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/A7medTa8a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-taha-thecg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC6fwcVt0oir2p1Eywt8hJng) 
+
+ My published projects are the finished ones only!
