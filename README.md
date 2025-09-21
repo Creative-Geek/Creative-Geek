@@ -1,7 +1,7 @@
 ## 💫 About Me
 Hey there! 👋 I'm Ahmed Taha, a Software Engineer, Graphics Designer, and Video Editor.  
 
-I'm super passionate about building automations tools and sharing knowledge.  
+I like building automations tools and sharing tech knowledge.  
 
 I learn by doing and look up information as I go.
 
