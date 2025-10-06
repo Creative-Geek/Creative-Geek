@@ -5,7 +5,7 @@ I like building automations tools and sharing tech knowledge.
 
 I learn by doing and look up information as I go.
 
-🔭 I’m currently working on Expensi, A quick-shot expenses tracker.<br>👀 I’m generally interested in web development, computer graphics, and AI integrations.<br>📫 Find my socials bellow.
+📸 I’m currently working on Focal, A quick-shot expenses tracker.<br>👀 I’m generally interested in web development, computer graphics, and AI integrations.<br>📫 Find my socials bellow.
 
 Why do I do what I do? Because no one else would.
 
