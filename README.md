@@ -5,7 +5,7 @@ I like building automations tools and sharing tech knowledge.
 
 I learn by doing and look up information as I go.
 
-📸 I’m currently working on Focal, A quick-shot expenses tracker.<br>👀 I’m generally interested in web development, computer graphics, and AI integrations.<br>📫 Find my socials bellow.
+I’m currently working on Searchable Screenshots, A desktop app to search your screenshots folder semanstically.<br> I’m generally interested in web development, computer graphics, and AI integrations.<br>📫 Find my socials bellow.
 
 Why do I do what I do? Because no one else would.
 
@@ -13,7 +13,7 @@ Why do I do what I do? Because no one else would.
 
 Checkout my blog: http://creative-geek.tech
 
-[![download my resume](https://github.com/user-attachments/assets/2286d355-9a81-45d8-9696-aad8f7e2f98b)](https://cg-blog-articles.pages.dev/Pages/resume.pdf)
+[![download my resume](https://github.com/user-attachments/assets/2286d355-9a81-45d8-9696-aad8f7e2f98b)](https://drive.google.com/file/d/1DMEWoPBtEwHH9TGDtRDaoqVtwpSpljZL/view?usp=sharing)
 
 
 ## 🌐 Socials
