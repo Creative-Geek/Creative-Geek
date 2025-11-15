@@ -1,11 +1,15 @@
 ## 💫 About Me
-Hey there! 👋 I'm Ahmed Taha, a Software Engineer, Graphics Designer, and Video Editor.  
+Hey there! 👋 I'm Ahmed Taha, an automation focused software engineer. 
 
 I like building automations tools and sharing tech knowledge.  
 
-I learn by doing and look up information as I go.
+I learn by doing and I look up information as I go. 🔭
 
-I’m currently working on Searchable Screenshots, A desktop app to search your screenshots folder semanstically.<br> I’m generally interested in web development, computer graphics, and AI integrations.<br>📫 Find my socials bellow.
+I’m currently working on Searchable-Screenshots, A desktop app to search your screenshots folder semanstically.
+
+I’m generally interested in AI integrations and automation, Web Development (to minimize friction for the user), and Computer Graphics.
+
+Find my socials bellow. 📫
 
 Why do I do what I do? Because no one else would.
 
