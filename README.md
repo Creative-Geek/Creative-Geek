@@ -1,19 +1,12 @@
-# Hey, I'm Ahmed Taha 👋
+# Hi, I'm Ahmed Taha 👋
 
 ### AI & Automation Engineer | Specialized in LLMs, RAG, and Computer Vision
 
 I build systems that think, automate, and scale.
 
-I’m a Computer Engineering graduate from Suez Canal University with a focus on solving complex problems through AI.
+I’m a Software Enginner with a focus on solving complex problems through AI.
 
 I learn by doing, if a tool doesn't exist to solve my problem, I build it.
-
----
-
-### 🛠️ What I'm working on
-
-- **Focal:** An AI-powered financial tracker using OCR to turn receipts into data.
-- **Searchable-Screenshots:** A tool to make your screenshots searchable by content.
 
 ---
 
