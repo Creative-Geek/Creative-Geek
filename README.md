@@ -34,7 +34,7 @@ I learn by doing, if a tool doesn't exist to solve my problem, I build it.
 
 ---
 
-Checkout my blog: http://creative-geek.tech
+Checkout my blog: http://creativegeek.net
 
 [![download my resume](https://github.com/user-attachments/assets/2286d355-9a81-45d8-9696-aad8f7e2f98b)](https://drive.google.com/file/d/1DMEWoPBtEwHH9TGDtRDaoqVtwpSpljZL/view?usp=sharing)
 
